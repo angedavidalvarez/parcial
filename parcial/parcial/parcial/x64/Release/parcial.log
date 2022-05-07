@@ -1,0 +1,10 @@
+﻿  parcial.cpp
+C:\Users\alvar\Desktop\Nueva carpeta\parcial\parcial\parcial\parcial.cpp(24,23): warning C4101: 'id': variable local sin referencia
+C:\Users\alvar\Desktop\Nueva carpeta\parcial\parcial\parcial\parcial.cpp(72,27): warning C4101: 'carne': variable local sin referencia
+C:\Users\alvar\Desktop\Nueva carpeta\parcial\parcial\parcial\parcial.cpp(72,13): warning C4101: 'telefono': variable local sin referencia
+  Generando código
+  0 of 161 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  parcial.vcxproj -> C:\Users\alvar\Desktop\Nueva carpeta\parcial\parcial\x64\Release\parcial.exe
